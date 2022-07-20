@@ -72,14 +72,14 @@ cover:
 # 配置首页显示"梦想"的语句.
 dream:
   enable: true
-  showTitle: true
-  title: 我的梦想
-  text: 不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐
+  showTitle: false
+  title: 格言
+  text: 前途风光正好，追赶风月莫停留！
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
 music:
-  enable: true
+  enable: false
   title: #非吸底模式有效
     enable: true
     show: 听听音乐
@@ -251,8 +251,8 @@ snowdown:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: /medias/backgrounds/logo0719.png
-  career: To be a zabayi
+  avatar: /medias/backgrounds/profile avatar0720.jpg
+  career: Guo ke
   introduction: 江湖没什么好的，也就酒还行！
 
 # config my projects informations in about page.
@@ -615,8 +615,8 @@ ribbon_dynamic:
 # sharejs文章分享模块.
 # 支持顺序，可选项目为twitter, facebook, google, qq, qzone, wechat, weibo, douban, linkedin.
 sharejs:
-  enable: true
-  sites: twitter,facebook,google,qq,qzone,wechat,weibo,douban,linkedin
+  enable: false
+  sites: qq,wechat
 
 # addthis文章分享模块.
 addthis:
@@ -633,12 +633,12 @@ subtitle:
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 有道是：“悉有我执生，留彼何所为？” 
-    - 亦有道是：“人有所执，方有所成！”
+    - 有道是：“人有所执，方有所成！”
+    - 亦有道是：“悉由我执生，留彼何所为？”
 
 # 手机二级菜单.
 navMenu:
-  mleft: false # 二级侧栏子菜单是否对齐左边
+  mleft: true # 二级侧栏子菜单是否对齐左边
   bgColor: " " # 二级侧栏子菜单背景颜色,留空即为全局背景色
 
 # 网页预加载.
