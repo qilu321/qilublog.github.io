@@ -8,12 +8,12 @@ subtitle: '26岁，踌躇，彷徨，不知所措'
 description: '26岁，踌躇，彷徨，不知所措'
 keywords: 
 author: 奔跑路人
-language: zh-Hans
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://benpaoluren.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -105,3 +105,17 @@ deploy:
   type: 'git'
   repo: https://github.com/qilu321/qilublog.github.io.git
   branch: main
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+
+permalink_pinyin:
+  enable: true
+  separator: '-' # default: '-'

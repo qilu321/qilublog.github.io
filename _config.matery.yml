@@ -1,8 +1,8 @@
-# main menu navigation url and icon
+﻿# main menu navigation url and icon
 # 配置菜单导航的名称、路径和图标icon.
 menu:
   Index:
-    url: /
+    url: /index
     icon: fas fa-home
   Tags:
     url: /tags
@@ -42,10 +42,10 @@ menu:
 # Website start time.
 # 站点运行开始时间.
 time:
-  enable: false
-  year: 2019 # 年份
-  month: 06 # 月份
-  date: 28 # 日期
+  enable: true
+  year: 2022 # 年份
+  month: 07 # 月份
+  date: 20 # 日期
   hour: 00 # 小时
   minute: 00 # 分钟
   second: 00 # 秒
@@ -144,30 +144,27 @@ recommend:
 
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
-favicon: /favicon.png
-logo: /medias/logo.png
+favicon: /medias/backgrounds/logo0719.png
+logo: /medias/backgrounds/favicon0719.png
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
 # 首页 banner 中的第二个按钮的配置，包括按钮的显示名称、font awesome图标和按钮的超链接.
 indexbtn:
-  enable: true
+  enable: false
   name: Github
   icon: fab fa-github-alt
-  url: https://github.com/blinkfox/hexo-theme-matery
+  url: https://github.com/qilu321/qilublog.github.io
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://github.com/blinkfox
-  email: 1181062873@qq.com
-  facebook: # https://www.facebook.com/xxx
-  twitter: # https://twitter.com/xxx
-  qq: 1181062873
-  weibo: # https://weibo.com/xxx
-  zhihu: # https://www.zhihu.com/xxx
-  rss: true # true、false
+  qq: 1150695274
+  email: 1150695274@qq.com
+  github: false # https://github.com/qilu321/qilublog.github.io
+  zhihu: false # https://www.zhihu.com/xxx
+  rss: false # true、false
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
@@ -189,9 +186,9 @@ code:
 # 是否激活文章末尾的打赏功能，默认激活（你替换为的你自己的微信、支付宝二维码图片、或者使用网络图片也可以）.
 reward:
   enable: true
-  title: 你的赏识是我前进的动力
-  wechat: /medias/reward/wechat.png
-  alipay: /medias/reward/alipay.jpg
+  title: 感谢客官
+  wechat: /medias/reward/weixinpay.png
+  alipay: /medias/reward/zhifubaopay.jpg
 
 # Whether to activate the copyright information of the blog and author when copying the post content.
 # minCharNumber: Approve copyright information by copying at least how many characters.
@@ -254,15 +251,15 @@ snowdown:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: /medias/avatar.jpg
-  career: Software Engineer
-  introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
+  avatar: /medias/backgrounds/logo0719.png
+  career: To be a zabayi
+  introduction: 江湖没什么好的，也就酒还行！
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的项目"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 myProjects:
-  enable: true
+  enable: false
   data:
     hexo-theme-matery:
       icon: fas fa-file-alt
@@ -284,7 +281,7 @@ myProjects:
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的技能"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 mySkills:
-  enable: true
+  enable: false
   data:
     Java:
       background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
@@ -309,7 +306,7 @@ mySkills:
 # If you don't want to display this `Gallery` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的相册"图片，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 myGallery:
-  enable: true
+  enable: false
   data:
     - /medias/featureimages/0.jpg
     - /medias/featureimages/1.jpg
@@ -418,9 +415,9 @@ changyan:
 # Whether to display fork me on github icon and link, default true, You can change it to your repo address
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
-  enable: true
-  url: https://github.com/blinkfox/hexo-theme-matery
-  title: Fork Me
+  enable: false
+  url: https://github.com/qilu321/qilublog.github.io
+  title: qilu
 
 # The configuration of the Twikoo comment module is not activated by default.
 # To use it, activate the configuration item and set envId.
@@ -636,8 +633,8 @@ subtitle:
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 从来没有真正的绝境, 只有心灵的迷途
-    - Never really desperate, only the lost of the soul
+    - 有道是：“悉有我执生，留彼何所为？” 
+    - 亦有道是：“人有所执，方有所成！”
 
 # 手机二级菜单.
 navMenu:
@@ -669,12 +666,12 @@ icp:
 # 更多关于访问速度优化，请查看：https://blog.sky03.cn/posts/42790.html
 # 注：jsdelivr可以自动帮你生成.min版的js和css，所以你在上面设置js及css路径中可以直接写.min.xxx
 jsDelivr:
-  url: # https://cdn.jsdelivr.net/gh/skyls03/skyls03.github.io
+  url: # https://cdn.jsdelivr.net/gh/qilu321/qilublog.github.io
   
 # 网站背景图
 background:
-  enable: false
-  url: "https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/medias/background.jpg"
+  enable: true
+  url: /medias/backgrounds/background0.jpg
 
 # 说说 https://artitalk.js.org/
 artitalk:
