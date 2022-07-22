@@ -6,7 +6,7 @@
   <link href="http://benpaoluren.top/atom.xml" rel="self"/>
   
   <link href="http://benpaoluren.top/"/>
-  <updated>2022-07-20T09:08:43.825Z</updated>
+  <updated>2022-07-22T09:35:57.555Z</updated>
   <id>http://benpaoluren.top/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>文章抬头格式20220720</title>
-    <link href="http://benpaoluren.top/2022/07/20/ce-shi-pian-20220720/"/>
-    <id>http://benpaoluren.top/2022/07/20/ce-shi-pian-20220720/</id>
+    <title>文章抬头格式</title>
+    <link href="http://benpaoluren.top/2022/07/20/20220720-wen-zhang-tai-tou-ge-shi/"/>
+    <id>http://benpaoluren.top/2022/07/20/20220720-wen-zhang-tai-tou-ge-shi/</id>
     <published>2022-07-20T08:32:00.000Z</published>
-    <updated>2022-07-20T09:08:43.825Z</updated>
+    <updated>2022-07-22T09:35:57.555Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h5 id=&quot;详见文章-Front-matter-介绍&quot;&gt;&lt;a href=&quot;#详见文章-Front-matter-介绍&quot; class=&quot;headerlink&quot; title=&quot;详见文章 Front-matter 介绍&quot;&gt;&lt;/a&gt;详见&lt;a</summary>
+    <summary type="html">&lt;h4 id=&quot;这就是一篇格式文档&quot;&gt;&lt;a href=&quot;#这就是一篇格式文档&quot; class=&quot;headerlink&quot; title=&quot;这就是一篇格式文档&quot;&gt;&lt;/a&gt;这就是一篇格式文档&lt;/h4&gt;&lt;h5 id=&quot;详见下表或文章-Front-matter-介绍&quot;&gt;&lt;a</summary>
         
       
     
@@ -43,8 +43,8 @@
   
   <entry>
     <title>记一下，学习计划</title>
-    <link href="http://benpaoluren.top/2022/07/18/ji-yi-xia-xue-xi-ji-hua/"/>
-    <id>http://benpaoluren.top/2022/07/18/ji-yi-xia-xue-xi-ji-hua/</id>
+    <link href="http://benpaoluren.top/2022/07/18/20220718-ji-yi-xia-xue-xi-ji-hua/"/>
+    <id>http://benpaoluren.top/2022/07/18/20220718-ji-yi-xia-xue-xi-ji-hua/</id>
     <published>2022-07-17T16:00:00.000Z</published>
     <updated>2022-07-19T03:29:40.226Z</updated>
     
@@ -66,8 +66,8 @@
   
   <entry>
     <title>建站，学习笔记</title>
-    <link href="http://benpaoluren.top/2022/07/13/jian-zhan-xue-xi-bi-ji/"/>
-    <id>http://benpaoluren.top/2022/07/13/jian-zhan-xue-xi-bi-ji/</id>
+    <link href="http://benpaoluren.top/2022/07/13/20220713-jian-zhan-xue-xi-bi-ji/"/>
+    <id>http://benpaoluren.top/2022/07/13/20220713-jian-zhan-xue-xi-bi-ji/</id>
     <published>2022-07-13T11:39:00.000Z</published>
     <updated>2022-07-20T08:11:06.936Z</updated>
     
@@ -92,8 +92,8 @@
   
   <entry>
     <title>杂谈25岁，学会表达，致26岁</title>
-    <link href="http://benpaoluren.top/2022/07/10/za-tan-26-sui/"/>
-    <id>http://benpaoluren.top/2022/07/10/za-tan-26-sui/</id>
+    <link href="http://benpaoluren.top/2022/07/10/20220710-za-tan-26-sui/"/>
+    <id>http://benpaoluren.top/2022/07/10/20220710-za-tan-26-sui/</id>
     <published>2022-07-10T08:27:48.000Z</published>
     <updated>2022-07-13T10:37:10.470Z</updated>
     
@@ -118,27 +118,28 @@
   </entry>
   
   <entry>
-    <title>测试篇202207201708</title>
-    <link href="http://benpaoluren.top/2022/07/01/ce-shi-pian/"/>
-    <id>http://benpaoluren.top/2022/07/01/ce-shi-pian/</id>
+    <title>测试篇</title>
+    <link href="http://benpaoluren.top/2022/07/01/00-ce-shi-pian/"/>
+    <id>http://benpaoluren.top/2022/07/01/00-ce-shi-pian/</id>
     <published>2022-07-01T00:00:00.000Z</published>
-    <updated>2022-07-20T09:08:15.361Z</updated>
+    <updated>2022-07-22T09:34:17.817Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;hr&gt;
-&lt;p&gt;这就是一篇测试文档&lt;/p&gt;
+    <summary type="html">&lt;p&gt;这就是一篇测试文档&lt;/p&gt;
 </summary>
         
       
     
     
     
+    <category term="测试文档" scheme="http://benpaoluren.top/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
     
-    <category term="更换主题" scheme="http://benpaoluren.top/tags/%E6%9B%B4%E6%8D%A2%E4%B8%BB%E9%A2%98/"/>
+    
+    <category term="这就是一篇测试文档" scheme="http://benpaoluren.top/tags/%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
     
   </entry>
   
