@@ -6,7 +6,7 @@
   <link href="http://benpaoluren.top/atom.xml" rel="self"/>
   
   <link href="http://benpaoluren.top/"/>
-  <updated>2022-07-22T09:35:57.555Z</updated>
+  <updated>2022-07-25T10:07:40.600Z</updated>
   <id>http://benpaoluren.top/</id>
   
   <author>
@@ -17,18 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>文章抬头格式</title>
+    <title>321</title>
+    <link href="http://benpaoluren.top/2022/07/25/321/"/>
+    <id>http://benpaoluren.top/2022/07/25/321/</id>
+    <published>2022-07-25T10:07:08.000Z</published>
+    <updated>2022-07-25T10:07:40.600Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/Urumuqi-1.jpg&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>文章格式</title>
     <link href="http://benpaoluren.top/2022/07/20/20220720-wen-zhang-tai-tou-ge-shi/"/>
     <id>http://benpaoluren.top/2022/07/20/20220720-wen-zhang-tai-tou-ge-shi/</id>
     <published>2022-07-20T08:32:00.000Z</published>
-    <updated>2022-07-22T09:35:57.555Z</updated>
+    <updated>2022-07-25T08:20:52.412Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h4 id=&quot;这就是一篇格式文档&quot;&gt;&lt;a href=&quot;#这就是一篇格式文档&quot; class=&quot;headerlink&quot; title=&quot;这就是一篇格式文档&quot;&gt;&lt;/a&gt;这就是一篇格式文档&lt;/h4&gt;&lt;h5 id=&quot;详见下表或文章-Front-matter-介绍&quot;&gt;&lt;a</summary>
+    <summary type="html">&lt;h3 id=&quot;这就是一篇格式文档&quot;&gt;&lt;a href=&quot;#这就是一篇格式文档&quot; class=&quot;headerlink&quot; title=&quot;这就是一篇格式文档&quot;&gt;&lt;/a&gt;这就是一篇格式文档&lt;/h3&gt;&lt;h4 id=&quot;一、文章概要&quot;&gt;&lt;a href=&quot;#一、文章概要&quot;</summary>
         
       
     
@@ -69,7 +90,7 @@
     <link href="http://benpaoluren.top/2022/07/13/20220713-jian-zhan-xue-xi-bi-ji/"/>
     <id>http://benpaoluren.top/2022/07/13/20220713-jian-zhan-xue-xi-bi-ji/</id>
     <published>2022-07-13T11:39:00.000Z</published>
-    <updated>2022-07-23T07:41:25.912Z</updated>
+    <updated>2022-07-25T09:47:19.823Z</updated>
     
     
       
@@ -122,7 +143,7 @@
     <link href="http://benpaoluren.top/2022/07/01/00-ce-shi-pian/"/>
     <id>http://benpaoluren.top/2022/07/01/00-ce-shi-pian/</id>
     <published>2022-07-01T00:00:00.000Z</published>
-    <updated>2022-07-22T09:34:17.817Z</updated>
+    <updated>2022-07-25T10:04:59.642Z</updated>
     
     
       
@@ -130,7 +151,8 @@
         
         
     <summary type="html">&lt;p&gt;这就是一篇测试文档&lt;/p&gt;
-</summary>
+&lt;p&gt;&lt;img src=&quot;/Urumuqi-1.jpg&quot; alt=&quot;Urumuqi-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/%E4%BD%A0%E5%A5%BD/Urumuqi-1.jpg&quot;</summary>
         
       
     
