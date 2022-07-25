@@ -69,7 +69,7 @@
     <link href="http://benpaoluren.top/2022/07/13/20220713-jian-zhan-xue-xi-bi-ji/"/>
     <id>http://benpaoluren.top/2022/07/13/20220713-jian-zhan-xue-xi-bi-ji/</id>
     <published>2022-07-13T11:39:00.000Z</published>
-    <updated>2022-07-25T09:47:19.823Z</updated>
+    <updated>2022-07-25T10:31:05.852Z</updated>
     
     
       
@@ -87,6 +87,29 @@
     
     
     <category term="从github+hexo学建站" scheme="http://benpaoluren.top/tags/%E4%BB%8Egithub-hexo%E5%AD%A6%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://benpaoluren.top/2022/07/13/00-ce-shi-pian/"/>
+    <id>http://benpaoluren.top/2022/07/13/00-ce-shi-pian/</id>
+    <published>2022-07-13T10:37:10.470Z</published>
+    <updated>2022-07-25T10:30:38.010Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;title: 测试篇&lt;br&gt;date: 2022-07&lt;/p&gt;
+&lt;p&gt;img: /medias/backgrounds/logo-21：9.jpg&lt;br&gt;top: true&lt;br&gt;cover: true&lt;br&gt;coverImg:</summary>
+        
+      
+    
+    
+    
     
   </entry>
   
@@ -114,33 +137,6 @@
     
     
     <category term="杂谈，25岁，致26岁————By：奔跑路人" scheme="http://benpaoluren.top/tags/%E6%9D%82%E8%B0%88%EF%BC%8C25%E5%B2%81%EF%BC%8C%E8%87%B426%E5%B2%81%E2%80%94%E2%80%94%E2%80%94%E2%80%94By%EF%BC%9A%E5%A5%94%E8%B7%91%E8%B7%AF%E4%BA%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试篇</title>
-    <link href="http://benpaoluren.top/2022/07/01/00-ce-shi-pian/"/>
-    <id>http://benpaoluren.top/2022/07/01/00-ce-shi-pian/</id>
-    <published>2022-07-01T00:00:00.000Z</published>
-    <updated>2022-07-25T10:19:20.212Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;这就是一篇测试文档&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/Urumuqi-1.jpg&quot; alt=&quot;Urumuqi-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/%E4%BD%A0%E5%A5%BD/Urumuqi-1.jpg&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="测试文档" scheme="http://benpaoluren.top/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
-    
-    
-    <category term="这就是一篇测试文档" scheme="http://benpaoluren.top/tags/%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
     
   </entry>
   
