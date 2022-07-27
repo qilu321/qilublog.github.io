@@ -18,8 +18,8 @@
   
   <entry>
     <title>文章格式</title>
-    <link href="http://benpaoluren.top/2022/07/20/20220720-wen-zhang-tai-tou-ge-shi/"/>
-    <id>http://benpaoluren.top/2022/07/20/20220720-wen-zhang-tai-tou-ge-shi/</id>
+    <link href="http://benpaoluren.top/2022/07/20/20220720-wen-zhang-ge-shi/"/>
+    <id>http://benpaoluren.top/2022/07/20/20220720-wen-zhang-ge-shi/</id>
     <published>2022-07-20T08:32:00.000Z</published>
     <updated>2022-07-25T08:20:52.412Z</updated>
     
@@ -91,34 +91,11 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="http://benpaoluren.top/2022/07/13/00-ce-shi-pian/"/>
-    <id>http://benpaoluren.top/2022/07/13/00-ce-shi-pian/</id>
-    <published>2022-07-13T10:37:10.470Z</published>
-    <updated>2022-07-25T10:30:38.010Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;hr&gt;
-&lt;p&gt;title: 测试篇&lt;br&gt;date: 2022-07&lt;/p&gt;
-&lt;p&gt;img: /medias/backgrounds/logo-21：9.jpg&lt;br&gt;top: true&lt;br&gt;cover: true&lt;br&gt;coverImg:</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>杂谈25岁，学会表达，致26岁</title>
-    <link href="http://benpaoluren.top/2022/07/10/20220710-za-tan-26-sui/"/>
-    <id>http://benpaoluren.top/2022/07/10/20220710-za-tan-26-sui/</id>
+    <link href="http://benpaoluren.top/2022/07/10/20220710-za-tan-25-sui-xue-hui-biao-da-zhi-26-sui/"/>
+    <id>http://benpaoluren.top/2022/07/10/20220710-za-tan-25-sui-xue-hui-biao-da-zhi-26-sui/</id>
     <published>2022-07-10T08:27:48.000Z</published>
-    <updated>2022-07-13T10:37:10.470Z</updated>
+    <updated>2022-07-26T11:14:02.417Z</updated>
     
     
       
@@ -137,6 +114,31 @@
     
     
     <category term="杂谈，25岁，致26岁————By：奔跑路人" scheme="http://benpaoluren.top/tags/%E6%9D%82%E8%B0%88%EF%BC%8C25%E5%B2%81%EF%BC%8C%E8%87%B426%E5%B2%81%E2%80%94%E2%80%94%E2%80%94%E2%80%94By%EF%BC%9A%E5%A5%94%E8%B7%91%E8%B7%AF%E4%BA%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试篇</title>
+    <link href="http://benpaoluren.top/2022/07/01/00-ce-shi-pian/"/>
+    <id>http://benpaoluren.top/2022/07/01/00-ce-shi-pian/</id>
+    <published>2022-07-01T00:00:00.000Z</published>
+    <updated>2022-07-27T08:14:06.996Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这就是一篇测试文档&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://pic.imgdb.cn/item/62e0f184f54cd3f93786b73a.png&quot; alt=&quot;logo21:9&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="测试文档" scheme="http://benpaoluren.top/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+    
     
   </entry>
   
