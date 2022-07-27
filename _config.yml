@@ -136,3 +136,7 @@ githubEmojis:
   inject: true
   styles:
   customEmojis:
+
+marked:
+  prependRoot: true
+  postAsset: true
