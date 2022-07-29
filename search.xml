@@ -56,6 +56,35 @@
     
     
     <entry>
+      <title>想要记些什么</title>
+      <link href="/2022/07/20/20220725-xiang-yao-ji-xie-shi-me/"/>
+      <url>/2022/07/20/20220725-xiang-yao-ji-xie-shi-me/</url>
+      
+        <content type="html"><![CDATA[<p>就是想记些什么</p><p>用能力说话</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 记录生活 </tag>
+            
+            <tag> 成长感悟 </tag>
+            
+            <tag> 想要发声 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>文章格式</title>
       <link href="/2022/07/20/20220720-wen-zhang-ge-shi/"/>
       <url>/2022/07/20/20220720-wen-zhang-ge-shi/</url>
@@ -73,35 +102,6 @@
         <tags>
             
             <tag> 从github+hexo学建站 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>想要记些什么</title>
-      <link href="/2022/07/20/20220725-xiang-yao-ji-xie-shi-me/"/>
-      <url>/2022/07/20/20220725-xiang-yao-ji-xie-shi-me/</url>
-      
-        <content type="html"><![CDATA[<p>就是想记些什么</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 生活 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 记录生活 </tag>
-            
-            <tag> 成长感悟 </tag>
-            
-            <tag> 想要发声 </tag>
             
         </tags>
       
