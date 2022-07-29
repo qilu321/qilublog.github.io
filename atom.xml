@@ -6,7 +6,7 @@
   <link href="http://benpaoluren.top/atom.xml" rel="self"/>
   
   <link href="http://benpaoluren.top/"/>
-  <updated>2022-07-29T03:07:43.627Z</updated>
+  <updated>2022-07-29T11:07:23.542Z</updated>
   <id>http://benpaoluren.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试篇</title>
+    <link href="http://benpaoluren.top/2022/07/29/00-ce-shi-pian/"/>
+    <id>http://benpaoluren.top/2022/07/29/00-ce-shi-pian/</id>
+    <published>2022-07-28T16:00:00.000Z</published>
+    <updated>2022-07-29T11:07:23.542Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这就是一篇测试文档&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://pic.imgdb.cn/item/62e0f184f54cd3f93786b73a.png&quot; alt=&quot;logo21:9&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="测试文档" scheme="http://benpaoluren.top/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="测试文档" scheme="http://benpaoluren.top/tags/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+    
+  </entry>
   
   <entry>
     <title>想要发声</title>
@@ -74,14 +101,15 @@
     <link href="http://benpaoluren.top/2022/07/20/20220725-xiang-yao-ji-xie-shi-me/"/>
     <id>http://benpaoluren.top/2022/07/20/20220725-xiang-yao-ji-xie-shi-me/</id>
     <published>2022-07-20T08:32:00.000Z</published>
-    <updated>2022-07-29T03:31:25.760Z</updated>
+    <updated>2022-07-29T11:09:21.691Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h4 id=&quot;这就是一篇格式文档&quot;&gt;&lt;a href=&quot;#这就是一篇格式文档&quot; class=&quot;headerlink&quot; title=&quot;这就是一篇格式文档&quot;&gt;&lt;/a&gt;这就是一篇格式文档&lt;/h4&gt;&lt;h5 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;就是想记些什么&lt;/p&gt;
+</summary>
         
       
     
@@ -179,33 +207,6 @@
     <category term="记录生活" scheme="http://benpaoluren.top/tags/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/"/>
     
     <category term="成长感悟" scheme="http://benpaoluren.top/tags/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试篇</title>
-    <link href="http://benpaoluren.top/2022/07/01/00-ce-shi-pian/"/>
-    <id>http://benpaoluren.top/2022/07/01/00-ce-shi-pian/</id>
-    <published>2022-07-01T00:00:00.000Z</published>
-    <updated>2022-07-29T03:39:33.230Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;这就是一篇测试文档&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://pic.imgdb.cn/item/62e0f184f54cd3f93786b73a.png&quot; alt=&quot;logo21:9&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="测试文档" scheme="http://benpaoluren.top/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
-    
-    
-    <category term="测试文档" scheme="http://benpaoluren.top/tags/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
     
   </entry>
   
