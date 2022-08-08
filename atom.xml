@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>7月，你好</title>
   
-  <subtitle>26岁，踌躇，彷徨，不知所措</subtitle>
+  <subtitle>奔跑路人</subtitle>
   <link href="http://benpaoluren.top/atom.xml" rel="self"/>
   
   <link href="http://benpaoluren.top/"/>
-  <updated>2022-08-03T03:07:47.374Z</updated>
+  <updated>2022-08-08T07:39:11.536Z</updated>
   <id>http://benpaoluren.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://benpaoluren.top/2022/08/03/20220803-zuo-cai-bi-ji/"/>
     <id>http://benpaoluren.top/2022/08/03/20220803-zuo-cai-bi-ji/</id>
     <published>2022-08-02T16:00:00.000Z</published>
-    <updated>2022-08-03T03:07:47.374Z</updated>
+    <updated>2022-08-08T07:39:11.536Z</updated>
     
     
       
@@ -48,7 +48,7 @@
     <link href="http://benpaoluren.top/2022/08/02/20220802-xu-yao-zuo-de-shi/"/>
     <id>http://benpaoluren.top/2022/08/02/20220802-xu-yao-zuo-de-shi/</id>
     <published>2022-08-01T16:00:00.000Z</published>
-    <updated>2022-08-04T08:25:05.479Z</updated>
+    <updated>2022-08-08T07:36:03.670Z</updated>
     
     
       
@@ -76,16 +76,16 @@
     <link href="http://benpaoluren.top/2022/07/31/20220731-wu-chang-jiang-tan-diao-yu/"/>
     <id>http://benpaoluren.top/2022/07/31/20220731-wu-chang-jiang-tan-diao-yu/</id>
     <published>2022-07-30T16:00:00.000Z</published>
-    <updated>2022-08-02T08:05:30.231Z</updated>
+    <updated>2022-08-08T07:34:26.195Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;2022.07.31 钓鱼记录&lt;/p&gt;
-&lt;p&gt;武昌江滩，5.30开始&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://qiluimage.benpaoluren.top/blogIMG/%E7%BA%A2%E5%B0%BE01.jpg&quot;</summary>
+    <summary type="html">&lt;p&gt;20220807 钓鱼记录&lt;/p&gt;
+&lt;p&gt;理论的实践总是多有坎坷&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://qiluimage.benpaoluren.top/blogIMG/%E5%B0%8F%E9%B1%BC01.jpg&quot;</summary>
         
       
     
@@ -99,38 +99,11 @@
   </entry>
   
   <entry>
-    <title>测试篇</title>
-    <link href="http://benpaoluren.top/2022/07/29/00-ce-shi-pian/"/>
-    <id>http://benpaoluren.top/2022/07/29/00-ce-shi-pian/</id>
-    <published>2022-07-28T16:00:00.000Z</published>
-    <updated>2022-08-03T02:23:58.292Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;这就是一篇测试文档&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://s1.ax1x.com/2022/07/27/vSvO1O.jpg&quot; alt=&quot;荆州古城&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="测试文档" scheme="http://benpaoluren.top/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
-    
-    
-    <category term="测试文档" scheme="http://benpaoluren.top/tags/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
-    
-  </entry>
-  
-  <entry>
     <title>想要发声</title>
     <link href="http://benpaoluren.top/2022/07/26/20220729-xiang-yao-fa-sheng/"/>
     <id>http://benpaoluren.top/2022/07/26/20220729-xiang-yao-fa-sheng/</id>
     <published>2022-07-25T16:00:00.000Z</published>
-    <updated>2022-07-29T03:07:43.627Z</updated>
+    <updated>2022-08-08T07:41:17.343Z</updated>
     
     
       
@@ -157,7 +130,7 @@
     <link href="http://benpaoluren.top/2022/07/20/20220720-wen-zhang-ge-shi/"/>
     <id>http://benpaoluren.top/2022/07/20/20220720-wen-zhang-ge-shi/</id>
     <published>2022-07-20T08:32:00.000Z</published>
-    <updated>2022-08-03T02:25:01.732Z</updated>
+    <updated>2022-08-08T07:41:25.550Z</updated>
     
     
       
@@ -183,15 +156,17 @@
     <link href="http://benpaoluren.top/2022/07/20/20220725-xiang-yao-ji-xie-shi-me/"/>
     <id>http://benpaoluren.top/2022/07/20/20220725-xiang-yao-ji-xie-shi-me/</id>
     <published>2022-07-20T08:32:00.000Z</published>
-    <updated>2022-08-04T08:35:43.733Z</updated>
+    <updated>2022-08-08T07:41:09.250Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;就是想记些什么&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;记录、论述、验证一些想法，思维逻辑寻找方法论！&lt;/p&gt;
+&lt;p&gt;近来所接触的多是如此，看似简单，上手就废，做项目、建网站、钓鱼调漂，甚至跟着教程也还有学不会。。。&lt;/p&gt;
+&lt;p&gt;思来想去，姑且归纳为：“还有没明白的背后原理”&lt;/p&gt;
+&lt;p&gt;记录一些后知后觉明白的原理，以及眼前</summary>
         
       
     
@@ -238,7 +213,7 @@
     <link href="http://benpaoluren.top/2022/07/13/20220713-jian-zhan-xue-xi-bi-ji/"/>
     <id>http://benpaoluren.top/2022/07/13/20220713-jian-zhan-xue-xi-bi-ji/</id>
     <published>2022-07-13T11:39:00.000Z</published>
-    <updated>2022-08-03T09:17:38.265Z</updated>
+    <updated>2022-08-08T07:38:56.406Z</updated>
     
     
       
@@ -266,7 +241,7 @@
     <link href="http://benpaoluren.top/2022/07/10/20220710-za-tan-25-sui-xue-hui-biao-da-zhi-26-sui/"/>
     <id>http://benpaoluren.top/2022/07/10/20220710-za-tan-25-sui-xue-hui-biao-da-zhi-26-sui/</id>
     <published>2022-07-10T08:27:48.000Z</published>
-    <updated>2022-08-04T08:35:34.316Z</updated>
+    <updated>2022-08-08T07:44:41.844Z</updated>
     
     
       
